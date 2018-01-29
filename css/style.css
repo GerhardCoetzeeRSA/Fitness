@@ -11,6 +11,12 @@ html,body {
      overflow-x: hidden;
   }
 
+.center {
+    margin: auto;
+    width: 60%;
+    border: 0px;
+    padding: 10px;
+}
 
 /*---------------------------------------
     Typorgraphy              
